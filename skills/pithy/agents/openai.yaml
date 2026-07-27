@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pithy"
+  short_description: "Selective exploration, verification, and recovery"
+  default_prompt: "Use $pithy to route this task through selective exploration, evidence-grounded verification, and concise closure."
